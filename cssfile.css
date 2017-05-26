@@ -1,0 +1,36 @@
+    .jumbotron {
+        height: 90vh;
+        margin-bottom: 0px;
+        font-family: 'Inconsolata', monospace;
+        background-image: url(mainwallpaper.jpg);
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #article {
+        font-size: 1.1rem;
+        font-family: 'Inconsolata', monospace;
+    }
+    
+    #navbar {
+        opacity: 1;
+        background-color: transparent;
+    }
+    
+    #jumbo-text {
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+    
+    #copyrightContainer p {
+        margin: 0;
+    }
+    
+    .navbar-toggler {
+        border: 0;
+        top: 5px;
+    }
